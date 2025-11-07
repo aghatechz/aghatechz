@@ -5,16 +5,14 @@
 <h3 align="center">A Passionate MERN Stack Developer from Pakistan</h3>
 
 <div>
+  
+🌱 Full Stack Web Developer
 
-- 🌱 I’m currently learning **Modern Web and App Development**
+👯 Looking to collaborate on Development and Technology
 
-- 👯 I’m looking to collaborate on **Development and Technology**
+📫 How to reach me: irtizarizvi88
 
-- 💬  Ask me about **html, css, javascript... or anything [here](https://github.com/irtizarizvi88)**
-
-- 📫 How to reach me **irtizarizvi88**
-
-- 💻 Experienced in touch typing – fast & accurate without looking.
+💻 Expert in touch typing – high-speed, precise, and effortless without looking
 
 </div>
 
