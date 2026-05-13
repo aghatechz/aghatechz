@@ -6,11 +6,11 @@
 
 <div>
   
-🌱 Full Stack Web Developer
+🌱 MERN Stack Web Developer
 
 👯 Looking to collaborate on Development and Technology
 
-📫 How to reach me: irtizarizvi88
+📫 How to reach me: agha.irtiza.rizvi@gmail.com
 
 💻 Expert in touch typing – high-speed, precise, and effortless without looking
 
