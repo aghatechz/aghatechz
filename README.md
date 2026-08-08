@@ -14,9 +14,14 @@
 
 <h3 align="center">Technical Skills</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,git,aws,cloudflare" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue,angular" /><br/>
+    <img src="https://skillicons.dev/icons?i=redux,nodejs,express,mongodb,firebase,mysql,postgres,python" /><br/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,linux,git,github,aws,cloudflare,docker" /><br/>
+    <img src="https://skillicons.dev/icons?i=postman,figma,photoshop,illustrator,vscode,npm" />
+  </p>
+</div>
 
 ---
 
