@@ -12,26 +12,26 @@
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Technical Skills</h3>
 
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vue,angular,redux" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgres,python,cpp" /><br/>
-    <img src="https://skillicons.dev/icons?i=java,linux,git,github,aws,cloudflare,docker,postman" /><br/>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,npm" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,git,aws,cloudflare" />
+</p>
+
+---
+
+<h3 align="center">Let's Connect</h3>
+
+<p align="center">
+  <a href="mailto:agha.irtiza.rizvi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
 <h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=aghatechz&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak" />
-  <img height="195" src="https://github-readme-stats-salesp07.vercel.app/api?username=aghatechz&show_icons=true&theme=react&border_radius=10&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img height="195" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aghatechz&langs_count=6&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghatechz&border_radius=10" alt="GitHub Streak" />
 </p>
