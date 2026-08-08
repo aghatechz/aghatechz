@@ -1,26 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;+I'm+Agha+Irtiza;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=36&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Problem+Solver;Full+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Full Stack AI Engineer & Systems Developer</h3>
-
 <p align="center">
-  Building scalable web applications, integrating AI workflows, and architecting modern cloud solutions.
+  Hi, I'm Agha Irtiza, a Full Stack Developer with experience in building modern web applications. I've developed 20+ projects using the MERN Stack, Next.js, and interactive web technologies. I love turning ideas into real products, solving challenges, and creating applications that are simple, fast, and useful. My goal is to build solutions that not only work well but also help businesses and users achieve their goals.
 </p>
 
 <p align="center">
-  <a href="mailto:agha.irtiza.rizvi@gmail.com">Email</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="YOUR_PORTFOLIO_URL"><b>Portfolio</b></a>
 </p>
-
----
-
-### Core Competencies
-
-- **Full-Stack Development:** Architecting responsive frontends (React, Next.js, Tailwind CSS) with robust backends (Node.js, Express, Python).
-- **AI Integration & Automation:** Implementing intelligent workflows, LLM services, and n8n automation pipelines.
-- **Cloud & DevOps:** Containerizing and deploying scalable applications using AWS, Cloudflare, Docker, and modern CI/CD practices.
 
 ---
 
