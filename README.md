@@ -18,9 +18,9 @@
 
 ### Core Competencies
 
-- **Full-Stack Development:** Architecting responsive frontends (React, Next.js) with robust backends (Node.js, Express, Python).
+- **Full-Stack Development:** Architecting responsive frontends (React, Next.js, Tailwind CSS) with robust backends (Node.js, Express, Python).
 - **AI Integration & Automation:** Implementing intelligent workflows, LLM services, and n8n automation pipelines.
-- **Cloud & DevOps:** Containerizing and deploying scalable applications using AWS, Docker, and modern CI/CD practices.
+- **Cloud & DevOps:** Containerizing and deploying scalable applications using AWS, Cloudflare, Docker, and modern CI/CD practices.
 
 ---
 
@@ -28,9 +28,9 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,angular" /><br/>
-    <img src="https://skillicons.dev/icons?i=redux,nodejs,express,mongodb,firebase,mysql,postgres,python" /><br/>
-    <img src="https://skillicons.dev/icons?i=cpp,java,linux,git,github,aws,docker,postman" /><br/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vue,angular,redux" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgres,python,cpp" /><br/>
+    <img src="https://skillicons.dev/icons?i=java,linux,git,github,aws,cloudflare,docker,postman" /><br/>
     <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,vscode,npm" />
   </p>
 </div>
