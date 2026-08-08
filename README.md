@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=36&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=36&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Software Engineer | Building High-Performance UIs & Backends | Web Automation & SaaS Platforms | Built 20+ Scalable Web Applications</h3>
