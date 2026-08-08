@@ -40,10 +40,10 @@
 <h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aghatechz&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=aghatechz&show_icons=true&theme=react&border_radius=10&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=aghatechz&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak" />
+  <img height="195" src="https://github-readme-stats-salesp07.vercel.app/api?username=aghatechz&show_icons=true&theme=react&border_radius=10&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aghatechz&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aghatechz&langs_count=6&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages" />
 </p>
