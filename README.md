@@ -1,43 +1,35 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+AGHA;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;+I'm+Agha+Irtiza;" />
 </h1>
 
-<h3 align="center">A Passionate MERN Stack Developer from Pakistan</h3>
+<h3 align="center">Full Stack AI Engineer</h3>
 
-<div>
-  
-🌱 MERN Stack Web Developer
+<p align="center">
+  Full Stack AI Engineer specializing in modern web development, intelligent systems, and scalable architecture.<br/>
+  Open for collaboration on Software Engineering & AI Projects.<br/>
+  Contact: <b>agha.irtiza.rizvi@gmail.com</b>
+</p>
 
-👯 Looking to collaborate on Development and Technology
+---
 
-📫 How to reach me: agha.irtiza.rizvi@gmail.com
+<h3 align="center">Languages and Tools</h3>
 
-💻 Expert in touch typing – high-speed, precise, and effortless without looking
-
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,angular" /><br/>
+    <img src="https://skillicons.dev/icons?i=redux,nodejs,express,mongodb,firebase,mysql,postgres,python" /><br/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,linux,git,github,figma,photoshop,illustrator" /><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,postman,docker,npm" />
+  </p>
 </div>
 
-<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
-<br/>
-<div align="center">
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,angular" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=redux,nodejs,express,mongodb,firebase,mysql,postgres,python" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,linux,git,github,figma,photoshop,illustrator" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,docker,npm" />
-</div>
-</div>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h3 align="center">GitHub Analytics</h3>
+
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=irtizarizvi88&show_icons=true&theme=react&border_radius=10" alt="streak-stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=irtizarizvi88&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=irtizarizvi88&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aghatechz&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aghatechz&show_icons=true&theme=react&border_radius=10&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghatechz&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages" />
 </div>
