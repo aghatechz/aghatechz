@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer | Building High-Performance UIs & Backends | Web Automation & SaaS Platforms | Built 20+ Scalable Web Applications</h3>
 
 <p align="center">
-  Hi, I'm <b>Agha Irtiza</b>. I build high-performance web applications, interactive user interfaces, and robust backend systems. Specializing in the MERN stack, Next.js, and modern cloud/automation tools, I focus on transforming complex ideas into clean, fast, and production-ready digital products.
+  Hi, I'm <b>Agha Irtiza</b>. I build high-performance web applications, interactive user interfaces, and robust backend systems. Specializing in the MERN stack, Next.js, and modern cloud/automation tools I focus on transforming complex ideas into clean, fast, and production-ready digital products.
 </p>
 
 <p align="center">
